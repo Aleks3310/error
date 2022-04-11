@@ -71,7 +71,7 @@ header:before{
 	padding: 10%;
 	font-size: 30px;
 }
-@media (max-width:767px){
+@media (max-width:500px){
 	.header-body{
 		height:110px;
 	}
